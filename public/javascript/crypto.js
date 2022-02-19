@@ -1,6 +1,6 @@
 ///  Calling API and modeling data for each chart ///
 
-let apiKey = '0646cc7b8a4d4b54926c74e0b20253b57fd4ee406df79b3d57d5439874960146';
+let apiKey = '55cf1905748de561787a84e625f936d0296b0facbfe807f384e4ae02b4f59441';
 
 const btcData = async () => {
     const response = await fetch(`https://min-api.cryptocompare.com/data/v2/histominute?fsym=BTC&tsym=USD&limit=119&api_key=${apiKey}`);
