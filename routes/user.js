@@ -37,6 +37,11 @@ router.get("/explore", (req, res) => {
     res.render("explore");
   });
 
+//Terms page
+router.get("/tc", (req, res) => {
+    res.render("tc");
+  });
+
 //Word of the Day Page
 router.get("/wotd", (req, res) => {
     res.render("wotd");
