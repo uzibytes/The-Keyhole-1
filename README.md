@@ -19,8 +19,8 @@
 
 ### Team
 
-- <a href="https://github.com/Ankitaayush">Ankit Aayush</a> (Pursuing B.TECH in I.T.) [Backend and React]
 - <a href="https://github.com/uzibytes">Ujjwal Raj</a> (Pursuing B.TECH in C.S.E.) [Frontend and API]
+- <a href="https://github.com/Ankitaayush">Ankit Aayush</a> (Pursuing B.TECH in I.T.) [Backend and React]
 
 ### Tech Stack
 
